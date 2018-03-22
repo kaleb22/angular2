@@ -12,6 +12,7 @@ describe('MeuPrimeiro2Component', () => {
     })
     .compileComponents();
   }));
+  
 
   beforeEach(() => {
     fixture = TestBed.createComponent(MeuPrimeiro2Component);
